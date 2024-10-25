@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">multiplify</string>
+    <string name="title_activity_all_numbers_exercise">AllNumbersExerciseActivity</string>
+    <string name="title_activity_select_number_exercise">SelectNumberExerciseActivity</string>
+</resources>
